@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-16T20:38:18 IST" name="Default suite" finished-at="2022-02-16T20:38:37 IST" duration-ms="18310">
+    <groups>
+    </groups>
+    <test started-at="2022-02-16T20:38:18 IST" name="Default test" finished-at="2022-02-16T20:38:37 IST" duration-ms="18310">
+      <class name="com.api.framework.CurrentWeatherTests">
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.api.framework.CurrentWeatherTests@cad498c]" started-at="2022-02-16T20:38:18 IST" name="beforeMethod" finished-at="2022-02-16T20:38:19 IST" duration-ms="32" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.api.framework.CurrentWeatherTests.testVerifyCityResponseData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testVerifyCityResponseData()[pri:0, instance:com.api.framework.CurrentWeatherTests@cad498c]" started-at="2022-02-16T20:38:19 IST" name="testVerifyCityResponseData" finished-at="2022-02-16T20:38:36 IST" duration-ms="17459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyCityResponseData -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.api.framework.CurrentWeatherTests@cad498c]" started-at="2022-02-16T20:38:36 IST" name="beforeMethod" finished-at="2022-02-16T20:38:36 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.api.framework.CurrentWeatherTests.testVerifyMutliCityResponseData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testVerifyMutliCityResponseData()[pri:0, instance:com.api.framework.CurrentWeatherTests@cad498c]" started-at="2022-02-16T20:38:36 IST" name="testVerifyMutliCityResponseData" finished-at="2022-02-16T20:38:36 IST" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyMutliCityResponseData -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.api.framework.CurrentWeatherTests@cad498c]" started-at="2022-02-16T20:38:36 IST" name="beforeMethod" finished-at="2022-02-16T20:38:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.api.framework.CurrentWeatherTests.testVerifyStatusofCurrentWeatherwithValiddata()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testVerifyStatusofCurrentWeatherwithValiddata()[pri:0, instance:com.api.framework.CurrentWeatherTests@cad498c]" started-at="2022-02-16T20:38:36 IST" name="testVerifyStatusofCurrentWeatherwithValiddata" finished-at="2022-02-16T20:38:37 IST" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyStatusofCurrentWeatherwithValiddata -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.api.framework.CurrentWeatherTests@cad498c]" started-at="2022-02-16T20:38:37 IST" name="beforeMethod" finished-at="2022-02-16T20:38:37 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.api.framework.CurrentWeatherTests.testgetResponsestatusWeatherwithoutData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testgetResponsestatusWeatherwithoutData()[pri:0, instance:com.api.framework.CurrentWeatherTests@cad498c]" started-at="2022-02-16T20:38:37 IST" name="testgetResponsestatusWeatherwithoutData" finished-at="2022-02-16T20:38:37 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetResponsestatusWeatherwithoutData -->
+      </class> <!-- com.api.framework.CurrentWeatherTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
